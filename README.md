@@ -21,4 +21,4 @@
         
     Grade:
         45 / 50
-            -5: Manual report problems
+            -5: Report - graph problems
